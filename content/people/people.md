@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Our team
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
+  - Principal Investigator
   - Researchers
   - Grad Students
   - Administration
@@ -27,3 +27,4 @@ design:
   show_role: true
   show_social: true
 ---
+{{< figure src="GroupPhoto.jpg" caption="Group photo, 2019. From left: Derek Sahota, Paul Westlund, JSD, Leya Lopez, Laleh Mohtashemi" >}}
