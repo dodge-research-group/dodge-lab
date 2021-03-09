@@ -5,6 +5,6 @@ date: 2021-03-04
 
 Our maximum-likelihood framework for terahertz time-domain analysis was featured
 in *Spotlight on Optics*, which showcases work published by the Optical Society
-of America journals.
+of America. Two papers are selected each month from all OSA journals.
 
 <!--more-->
