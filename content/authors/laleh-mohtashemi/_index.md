@@ -2,9 +2,6 @@
 # Display name
 title: Laleh Mohtashemi
 
-# Position
-# weight: 30
-
 # Username (this should match the folder name)
 authors:
 - Laleh Mohtashemi

@@ -1,9 +1,6 @@
 ---
 # Display name
-title: Derek Sahota
-
-# Position
-# : 50
+title: Derek G. Sahota
 
 # Username (this should match the folder name)
 authors:

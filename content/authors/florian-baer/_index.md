@@ -2,9 +2,6 @@
 # Display name
 title: Florian Baer
 
-# Position
-# weight: 40
-
 # Username (this should match the folder name)
 authors:
 - Florian Baer

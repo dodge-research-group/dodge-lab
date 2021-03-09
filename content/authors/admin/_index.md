@@ -2,9 +2,6 @@
 # Display name
 title: J. Steven Dodge
 
-# Position
-# weight: 10
-
 # Is this the primary user of the site?
 superuser: true
 
