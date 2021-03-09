@@ -3,18 +3,26 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
+widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
+title: "The Dodge Lab @ SFU"
+subtitle: "Time-Resolved Optical Spectroscopy of Quantum Materials"
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "0px", "0"]
+
+  background:
+    image: NarrowCrop_SunPainting_DSC_1496_AS.jpg
+    image_darken: 0.5
+
 advanced:
   css_style:
   css_class:
----
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+---
