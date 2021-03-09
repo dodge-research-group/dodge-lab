@@ -1,5 +1,5 @@
 ---
-title: Terahertz analysis work featured in Spotlight on Optics
+title: Terahertz time-domain analysis featured in Spotlight on Optics
 date: 2021-03-04
 ---
 

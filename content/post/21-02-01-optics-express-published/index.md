@@ -1,5 +1,5 @@
 ---
-title: Terahertz analysis work published in Optics Express
+title: New terahertz analysis framework published in Optics Express
 date: 2021-02-01
 ---
 
