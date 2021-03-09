@@ -29,3 +29,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
+<!--
+Group photo, 2019. From left: Derek Sahota, Paul Westlund, JSD, Leya Lopez, Laleh Mohtashemi
+-->
