@@ -20,6 +20,10 @@ design:
   background:
     image: NarrowCrop_SunPainting_DSC_1496_AS.jpg
     image_darken: 0.5
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
 
 advanced:
   css_style:
