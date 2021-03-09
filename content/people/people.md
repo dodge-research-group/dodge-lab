@@ -27,4 +27,6 @@ design:
   show_role: true
   show_social: true
 ---
-{{< figure src="GroupPhoto.jpg" caption="Group photo, 2019. From left: Derek Sahota, Paul Westlund, JSD, Leya Lopez, Laleh Mohtashemi" >}}
+<!--
+{{< figure src="GroupPhoto.jpg" class="floatright" caption="Group photo, 2019. From left: Derek Sahota, Paul Westlund, JSD, Leya Lopez, Laleh Mohtashemi" >}}
+-->
