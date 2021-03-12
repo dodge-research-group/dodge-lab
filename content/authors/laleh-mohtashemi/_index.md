@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Physics
     institution: Simon Fraser University
-    year: 2020
+#     year: 2020
   - course: MSc in Physics
     institution: Simon Fraser University
-    year: 2013
+#     year: 2013
   - course: BSc in Physics
     institution: Simon Fraser University
-    year: 2011
+#     year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

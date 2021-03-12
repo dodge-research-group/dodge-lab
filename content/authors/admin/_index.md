@@ -24,7 +24,7 @@ interests:
 - Statistical inference and data analysis
 
 education:
-courses:
+  courses:
   - course: PhD in Applied Physics
     institution: Stanford University
   - course: AB in Physics

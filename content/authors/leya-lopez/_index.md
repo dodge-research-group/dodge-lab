@@ -29,10 +29,10 @@ education:
   courses:
   - course: MSc in Physics
     institution: Simon Fraser University
-    year: 2020
+#    year: 2020
   - course: BS-MS in Physics
     institution: Indian Institute of Science Education and Research
-    year: 2016
+#    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
