@@ -96,7 +96,7 @@ address = {street = "8888 University Drive", city = "Burnaby", region = "BC", po
 coordinates = {latitude = "49.2774", longitude = "-122.9163"}
 
 # Directions for visitors to locate you.
-directions = "Lab: P8450<br> Office: P8458<br>South corridor of the Shrum Science Centre, near the main SFU Physics Office.<br><br> The Burnaby campus of SFU is situated on the unceded traditional territories of the [səlilwətaɬ](https://twnation.ca/) (Tsleil-Waututh), [kʷikʷəƛ̓əm](https://www.kwikwetlem.com/) (Kwikwetlem, [Sḵwx̱wú7mesh](https://www.squamish.net/) (Squamish) and [xʷməθkʷəy̓əm](https://www.musqueam.bc.ca/) (Musqueam) Nations."
+directions = "Lab: P8450<br> Office: P8458<br>South corridor of the Shrum Science Centre, near the main SFU Physics Office.<br><br> The Burnaby campus of SFU is situated on the unceded traditional territories of the [səlilwətaɬ](https://twnation.ca/) (Tsleil-Waututh), [kʷikʷəƛ̓əm](https://www.kwikwetlem.com/) (Kwikwetlem), [Sḵwx̱wú7mesh](https://www.squamish.net/) (Squamish) and [xʷməθkʷəy̓əm](https://www.musqueam.bc.ca/) (Musqueam) Nations."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
