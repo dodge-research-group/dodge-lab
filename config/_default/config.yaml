@@ -5,7 +5,7 @@
 
 title: 'Dodge Optics Lab' # Website name
 # baseURL: 'https://www.sfu.ca/lux/' # Website URL
-baseULRL"https://mystifying-newton-d62990.netlify.app/"
+baseURL"https://mystifying-newton-d62990.netlify.app/"
 
 ############################
 ## LANGUAGE
