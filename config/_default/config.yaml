@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Dodge Optics Lab' # Website name
-# baseURL: 'https://www.sfu.ca/lux/' # Website URL
-baseURL: "frabjous-zabaione-82982f.netlify.app"
+baseURL: 'https://www.sfu.ca/lux/' # Website URL
+# baseURL: "frabjous-zabaione-82982f.netlify.app"
 
 ############################
 ## LANGUAGE

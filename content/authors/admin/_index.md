@@ -31,16 +31,19 @@ education:
     institution: Harvard University
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jsdodge@sfu.ca
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/JStevenDodge
+    link: https://fediscience.org/@jsdodge
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/JStevenDodge
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=sTIjEpcAAAAJ
