@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/jsdodge/dodge-lab'
+    url: 'https://github.com/dodge-research-group/dodge-lab'
     content_dir: content
     branch: main
   avatar:
