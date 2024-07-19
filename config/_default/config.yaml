@@ -6,6 +6,7 @@
 title: 'Dodge Optics Lab' # Website name
 baseURL: 'https://www.sfu.ca/lux/' # Website URL
 # baseURL: "frabjous-zabaione-82982f.netlify.app"
+# baseURL: 'http://localhost:1313/' # Local testing
 
 ############################
 ## LANGUAGE
